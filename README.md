@@ -74,5 +74,5 @@ A continuación, la lista de los ejercicios que he resuelto, organizados por tem
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/mi-aprendizaje-typescript.git
-cd mi-aprendizaje-typescript
+git clone https://github.com/JOR-Attack/Learning-Typescript.git
+cd Learning-Typescript
