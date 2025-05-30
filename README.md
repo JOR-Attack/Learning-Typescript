@@ -64,7 +64,6 @@ A continuación, la lista de los ejercicios que he resuelto, organizados por tem
 ## 🛠️ Herramientas que estoy usando
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/)
 - [VS Code](https://code.visualstudio.com/)
 
 ---
