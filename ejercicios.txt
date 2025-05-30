@@ -1,0 +1,19 @@
+1. Declara una variable de tipo string llamada "nombre" e inicialízala con tu nombre.
+
+2. Crea una función que reciba dos números y devuelva la suma de ambos. Especifica los tipos de los parámetros y del valor de retorno.
+
+3. Define una interfaz llamada "Persona" con las propiedades "nombre" (string), "edad" (number) y "activo" (boolean).
+
+4. Crea una función que reciba un objeto del tipo "Persona" y devuelva un string con un mensaje que incluya el nombre y la edad.
+
+5. Declara un array de números e inicialízalo con cinco valores. Luego, crea una función que calcule el promedio de esos números.
+
+6. Escribe una función que tome una cadena de texto y devuelva la misma cadena en mayúsculas. Usa el tipo adecuado para el parámetro y el retorno.
+
+7. Declara un enum llamado "Dia" con los días de la semana. Luego, crea una función que reciba un valor de tipo "Dia" y devuelva si es día laborable o fin de semana.
+
+8. Define una clase llamada "Rectangulo" con propiedades "base" y "altura" (ambas de tipo number), y un método que calcule el área del rectángulo.
+
+9. Crea una función genérica que reciba un array de cualquier tipo y devuelva el primer elemento del array.
+
+10. Usa una unión de tipos para declarar una variable que pueda ser string o number, e imprime su valor dependiendo de su tipo.
