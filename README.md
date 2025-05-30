@@ -1,71 +1,78 @@
-# 📘 Curso Práctico de TypeScript - Ejercicios Resueltos
+# 📘 Mi Camino con TypeScript - Registro de Aprendizaje
 
-¡Bienvenido/a al repositorio de **aprendizaje práctico de TypeScript**! 🚀  
-Aquí encontrarás una serie de ejercicios diseñados para que aprendas los fundamentos de TypeScript de manera clara y directa.
-
----
-
-## 📌 Objetivo
-
-Este repositorio tiene como finalidad ayudarte a:
-
-- Comprender la sintaxis básica de TypeScript.
-- Aprender a utilizar tipos, interfaces, enums, clases, funciones genéricas y más.
-- Practicar resolviendo ejercicios sencillos pero esenciales.
+¡Hola! 👋  
+Este repositorio ha sido creado con el propósito de **documentar y constatar mi proceso de aprendizaje de TypeScript**.  
+Aquí iré resolviendo ejercicios fundamentales que me permiten afianzar conceptos clave del lenguaje.
 
 ---
 
-## 🧠 Ejercicios
+## 🎯 Propósito del Repositorio
 
-A continuación se listan los ejercicios propuestos:
+> Aprender TypeScript desde la práctica.  
+> Escribir código tipado, estructurado y legible.  
+> Comprender las bases sólidas para futuros proyectos con TypeScript y frameworks como Angular, React o Node.js.
 
-1. ✅ **Variable de tipo string**  
-   Declara una variable de tipo `string` llamada `nombre` e inicialízala con tu nombre.
-
-2. ✅ **Función con tipos explícitos**  
-   Crea una función que reciba dos números y devuelva la suma de ambos. Especifica los tipos de los parámetros y el valor de retorno.
-
-3. ✅ **Interfaz Persona**  
-   Define una interfaz llamada `Persona` con las propiedades:
-   - `nombre` (string)
-   - `edad` (number)
-   - `activo` (boolean)
-
-4. ✅ **Función que usa una interfaz**  
-   Crea una función que reciba un objeto del tipo `Persona` y devuelva un string con un mensaje que incluya el nombre y la edad.
-
-5. ✅ **Array y función para promedio**  
-   Declara un array de números con cinco valores y crea una función que calcule el **promedio**.
-
-6. ✅ **Conversión a mayúsculas**  
-   Escribe una función que reciba una cadena de texto y la devuelva en **mayúsculas**.
-
-7. ✅ **Enum y función con lógica condicional**  
-   Declara un `enum` llamado `Dia` con los días de la semana. Crea una función que reciba un valor de tipo `Dia` y devuelva si es **día laborable** o **fin de semana**.
-
-8. ✅ **Clase Rectángulo**  
-   Define una clase llamada `Rectangulo` con propiedades `base` y `altura`. Incluye un método que calcule el **área** del rectángulo.
-
-9. ✅ **Función genérica**  
-   Crea una función **genérica** que reciba un array de cualquier tipo y devuelva el **primer elemento**.
-
-10. ✅ **Unión de tipos**  
-    Usa una **unión de tipos** (`string | number`) para declarar una variable y muestra su valor dependiendo del tipo.
+Este es mi diario de ejercicios, donde cada archivo representa un paso más en mi camino de mejora como desarrollador. 🛤️
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🧠 Ejercicios Realizados
 
-- [TypeScript](https://www.typescriptlang.org/) 🧩
-- [Node.js](https://nodejs.org/) (para correr los ejercicios)
-- [VS Code](https://code.visualstudio.com/) (opcional pero recomendado)
+A continuación, la lista de los ejercicios que he resuelto, organizados por tema:
+
+### 🔤 Tipos y Variables
+1. **Declarar una variable de tipo `string`**  
+   `nombre: string = "TuNombre"`
+
+### ➕ Funciones Tipadas
+2. **Función que suma dos números**  
+   Usa tipos explícitos para parámetros y retorno.
+
+### 🧱 Interfaces
+3. **Interfaz `Persona`**  
+   Contiene: `nombre: string`, `edad: number`, `activo: boolean`.
+
+4. **Función que recibe un objeto `Persona`**  
+   Devuelve un mensaje que incluye su nombre y edad.
+
+### 🔢 Arrays y Operaciones
+5. **Array de números + función para calcular promedio**  
+   Tipado con `number[]`.
+
+### 🔡 Manipulación de Strings
+6. **Función que convierte un texto a mayúsculas**  
+   Tipos adecuados en parámetro y retorno.
+
+### 📅 Enums
+7. **Enum `Dia` (días de la semana)**  
+   Función que devuelve si es día laborable o fin de semana.
+
+### 🧮 Clases
+8. **Clase `Rectangulo`**  
+   Propiedades `base` y `altura`, método para calcular área.
+
+### 🔁 Genéricos
+9. **Función genérica**  
+   Recibe un array de cualquier tipo y devuelve su primer elemento.
+
+### 🔀 Uniones de Tipos
+10. **Variable con unión `string | number`**  
+    Se imprime de forma distinta según su tipo.
 
 ---
 
-## 🚀 Cómo usar este repositorio
+## 🛠️ Herramientas que estoy usando
 
-1. Clona el repositorio:
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/)
+- [VS Code](https://code.visualstudio.com/)
+
+---
+
+## 🚀 Cómo probar el código
+
+1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-repositorio.git
-cd nombre-repositorio
+git clone https://github.com/tu-usuario/mi-aprendizaje-typescript.git
+cd mi-aprendizaje-typescript
